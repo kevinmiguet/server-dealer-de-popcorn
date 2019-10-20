@@ -1,0 +1,12 @@
+{
+	"apps": [{
+		"name": "Backend Dealer de popcorn",
+		"script": "./src/index.ts",
+		"interpreter": "./node_modules/.bin/ts-node",
+		"interpreter_args": "-P tsconfig.json ",
+		"watch": ["src"],
+		"error_file": "server.log",
+		"out_file": "server.log",
+		"merge_logs": true
+	}]
+}
