@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kevinmiguet/server-dealer-de-popcorn#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "prettier": "^1.18.2",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
